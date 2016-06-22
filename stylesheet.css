@@ -1,0 +1,197 @@
+/* CSS Document */
+html, body { margin: 0; padding: 0; border: 0;  
+				background: transparent; font-size:10px; }
+				
+
+				
+.mySlides{width: 1220px;
+		  height: 500px;
+			margin:  0 auto;
+			display: block; }
+				
+				
+h1 {
+	font-size: 15px; }
+	
+h3 {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif
+	font-size: 13px;
+}
+
+
+
+
+				
+
+/*Navigation Bar*/
+
+ul {
+    list-style-type: none;
+    margin: 2px;
+    padding: 1px;
+    overflow: hidden;
+    background-color: #006;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: #F00;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+	text-align: center;
+}
+
+
+li a:hover {
+   	color: #FFF
+	;
+}
+
+
+
+#topnav 			{ clear: both;}
+#topnav ul			{ border-top: 1px #000 solid; border-bottom: 1px #000 solid;
+						margin: 20px 0; padding: 15px 0; font:Verdana, Geneva, sans-serif; font-size: 15px;	}
+#topnav ul li		{ display: inline;	}
+#topnav ul li a		{ padding: 0 45px;	}
+
+#topnav a:link			{ color: #FFF; font-weight:bold;}
+#topnav a:visited		{ color: #FFF;  }
+#topnav a:active		{ color: #960;  }
+#topnav a:focus			{ color: #666;  }
+#topnav a:hover     	{ color: #F00;  }
+
+
+
+p {
+	font-stretch:expanded;
+	font-size:16px;
+	font-variant:normal;
+	display:block;
+	margin: 0 auto;
+	text-align: justify;
+}
+		
+.border
+	{color: #006;}						
+
+
+/*Margin of Webpage*/
+
+body {
+	margin-left: 100px;
+	margin-right: 100px;
+}
+
+#h1:link {
+	
+    background-color: white;
+	
+}
+
+#h1:visited {
+	
+    background-color: white;
+	
+}
+
+#h1:hover {
+	
+	
+    background-color: white;
+	
+}
+
+#h1:active {
+	
+    background-color: white;
+	
+} 
+
+#content {font-size:20px; color: #000;
+		padding-bottom:15px; border-bottom: 3px #ccc solid; margin-bottom: 15px;}
+		
+#science {font-size:20px; color: #000;
+		padding-bottom:15px; border-bottom: 3px #ccc solid; margin-bottom: 15px;}
+		
+#planbook
+	{
+	margin-top: 0px;
+    margin-bottom: 70px;
+    margin-right: 70px;
+    margin-left: 70px;
+	background-position:center }
+		
+/*Science Grades*/
+		
+#table ul {
+    list-style-type: none;
+    margin: 3px;
+    padding: 1px;
+    overflow: hidden;
+    background-color: #000;
+}
+
+#table li {
+    float: left;
+}
+
+#table li a {
+    display: block;
+    color: #000;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+li a:hover {
+   	color: #FFF
+	;
+}
+
+
+
+#table 			{ clear: both;  }
+#table ul			{ border-top: 1px #000 solid; border-bottom: 1px #000 solid;
+						margin: 20px 0; padding: 10px 0; font:Verdana, Geneva, sans-serif; font-size: 15px;	}
+#table ul li		{ display: inline;	}
+#table ul li a		{ padding: 0 70px;	}
+
+#table a:link			{ color: #FFF; font-weight:bold;}
+#table a:visited		{ color: #FFF;  }
+#table a:active		{ color: #960;  }
+#table a:focus			{ color: #666;  }
+#table a:hover     	{ color: #F00;  }
+
+.centerblock
+	{ display: block;
+	margin: 0 auto;
+	}
+	
+.form
+		{   font-size:14px;
+			border-style: solid;
+   	 		border-color: #006;
+			display: block;
+			margin: 0 auto;
+
+		}
+.8 { display:block;
+		margin: 0 auto;
+}
+
+.welcome
+	{display: block;
+	margin: 0 auto;
+	}
+	
+th
+	{font-size:24px;
+	}
+	
